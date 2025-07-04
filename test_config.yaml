@@ -1,0 +1,24 @@
+automaton:
+  neighborhood: moore
+  update_mode: synchronous
+grid:
+  height: 12
+  width: 12
+initial_pattern: checkerboard
+progression:
+  params:
+    key: 0
+    mode: major
+    pattern: ii-V-I
+    randomness: 0.1
+  type: rule_based
+simulation:
+  start_chord: C
+  steps: 10
+visualization:
+  color_by: quality
+  figsize:
+  - 12
+  - 10
+  output: tonnetz.png
+  type: static

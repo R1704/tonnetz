@@ -1,0 +1,72 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tonnetz"
+version = "0.1.0"
+description = "A Tonnetz-based cellular automaton chord progression engine"
+authors = [{name = "Ron", email = "ron@example.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+keywords = ["music", "theory", "tonnetz", "cellular-automaton", "chord-progression"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Multimedia :: Sound/Audio :: MIDI",
+    "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+dependencies = [
+    "numpy>=1.21.0",
+    "music21>=8.1.0",
+    "networkx>=2.8",
+    "matplotlib>=3.5.0",
+    "bokeh>=2.4.0",
+    "pyyaml>=6.0",
+    "click>=8.0.0",
+    "mido>=1.2.0",
+    "fastapi>=0.68.0",
+    "uvicorn>=0.15.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=3.0.0",
+    "black>=22.0.0",
+    "flake8>=4.0.0",
+    "mypy>=0.950",
+    "sphinx>=4.5.0",
+    "jupyter>=1.0.0",
+]
+
+[project.scripts]
+tonnetz-simulate = "tonnetz.cli.commands:simulate"
+tonnetz-visualize = "tonnetz.cli.commands:visualize"
+tonnetz-serve = "tonnetz.cli.commands:serve"
+
+[project.urls]
+Homepage = "https://github.com/ronuser/tonnetz"
+Repository = "https://github.com/ronuser/tonnetz.git"
+Documentation = "https://tonnetz.readthedocs.io"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["tonnetz*"]
+
+[tool.black]
+line-length = 88
+target-version = ['py39']
+
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true

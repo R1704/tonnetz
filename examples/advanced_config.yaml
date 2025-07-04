@@ -1,0 +1,36 @@
+# Advanced Tonnetz Configuration
+# Demonstrates complex cellular automaton setup with multiple algorithms
+
+grid:
+  width: 16
+  height: 16
+
+initial_pattern: center
+
+progression:
+  type: rule_based
+  params:
+    key: 0
+    mode: major
+    pattern: circle_of_fifths
+    randomness: 0.2
+
+automaton:
+  neighborhood: moore
+  update_mode: asynchronous
+
+simulation:
+  steps: 20
+  start_chord: Cmaj7
+
+visualization:
+  type: animation
+  color_by: root
+  figsize: [14, 12]
+  output_dir: ./animation_frames/
+  fps: 2
+
+analysis:
+  track_harmony: true
+  pattern_detection: true
+  export_midi: true

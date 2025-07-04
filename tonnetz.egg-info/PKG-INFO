@@ -1,0 +1,164 @@
+Metadata-Version: 2.4
+Name: tonnetz
+Version: 0.1.0
+Summary: A Tonnetz-based cellular automaton chord progression engine
+Author-email: Ron <ron@example.com>
+License: MIT
+Project-URL: Homepage, https://github.com/ronuser/tonnetz
+Project-URL: Repository, https://github.com/ronuser/tonnetz.git
+Project-URL: Documentation, https://tonnetz.readthedocs.io
+Keywords: music,theory,tonnetz,cellular-automaton,chord-progression
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Multimedia :: Sound/Audio :: MIDI
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: music21>=8.1.0
+Requires-Dist: networkx>=2.8
+Requires-Dist: matplotlib>=3.5.0
+Requires-Dist: bokeh>=2.4.0
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: click>=8.0.0
+Requires-Dist: mido>=1.2.0
+Requires-Dist: fastapi>=0.68.0
+Requires-Dist: uvicorn>=0.15.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: pytest-cov>=3.0.0; extra == "dev"
+Requires-Dist: black>=22.0.0; extra == "dev"
+Requires-Dist: flake8>=4.0.0; extra == "dev"
+Requires-Dist: mypy>=0.950; extra == "dev"
+Requires-Dist: sphinx>=4.5.0; extra == "dev"
+Requires-Dist: jupyter>=1.0.0; extra == "dev"
+Dynamic: license-file
+
+# Tonnetz: Cellular Automaton Chord Engine
+
+A Python library for exploring chord progressions through neo-Riemannian transformations on a toroidal Tonnetz, combined with cellular automaton dynamics.
+
+## Features
+
+- **Tonnetz Representation**: Map chords onto a 2D toroidal lattice with modular wrap-around
+- **Neo-Riemannian Transformations**: Implement P (Parallel), L (Leittonwechsel), R (Relative) operations
+- **Pluggable Progression Algorithms**: Rule-based, Markov chain, and search-driven chord progressions
+- **Cellular Automaton Engine**: 2D grid of agents applying local transformation rules
+- **Visualization**: Static and interactive plots of chord evolution on the torus
+- **MIDI Support**: Export progressions as MIDI files
+- **Configuration-driven**: YAML/JSON configuration for all simulation parameters
+
+## Installation
+
+```bash
+pip install tonnetz
+```
+
+For development:
+
+```bash
+git clone https://github.com/ronuser/tonnetz.git
+cd tonnetz
+pip install -e ".[dev]"
+```
+
+## Quick Start
+
+```python
+from tonnetz.core.chord import Chord
+from tonnetz.core.neo_riemannian import PLRGroup
+from tonnetz.automaton.grid import ToroidalGrid
+from tonnetz.progression.rule_based import RuleBasedProgression
+
+# Create a chord and apply transformations
+chord = Chord(root=0, quality='major')  # C major
+plr = PLRGroup()
+chord_p = plr.parallel(chord)  # C minor
+
+# Set up a cellular automaton
+grid = ToroidalGrid(width=12, height=12)
+progression = RuleBasedProgression()
+grid.populate_random(progression)
+
+# Run simulation
+for step in range(10):
+    grid.update()
+    
+# Visualize
+from tonnetz.visualization.static import plot_grid
+plot_grid(grid, save_path='tonnetz_evolution.png')
+```
+
+## CLI Usage
+
+```bash
+# Run a simulation with configuration file
+tonnetz-simulate --config examples/basic_config.yaml --steps 20 --output simulation.midi
+
+# Start interactive visualization server
+tonnetz-serve --port 8000
+
+# Generate static visualization
+tonnetz-visualize --grid-size 12x12 --algorithm markov --output tonnetz.png
+```
+
+## Project Structure
+
+```
+tonnetz/
+├── core/                 # Core music theory and geometry
+│   ├── chord.py         # Chord representation and operations
+│   ├── neo_riemannian.py # PLR transformations
+│   └── tonnetz.py       # Toroidal lattice geometry
+├── progression/         # Chord progression algorithms
+│   ├── base.py         # Abstract base classes
+│   ├── rule_based.py   # Functional harmony rules
+│   ├── markov.py       # Markov chain progressions
+│   └── search.py       # A* search-based progressions
+├── automaton/          # Cellular automaton engine
+│   ├── cell.py         # Cell/Agent representation
+│   ├── grid.py         # 2D toroidal grid management
+│   ├── rules.py        # Local transformation rules
+│   └── scheduler.py    # Update scheduling
+├── visualization/      # Plotting and UI
+│   ├── static.py       # Matplotlib plotting
+│   ├── interactive.py  # Bokeh interactive plots
+│   └── web/           # FastAPI web interface
+├── io/                # Configuration and I/O
+│   ├── config.py      # YAML/JSON configuration
+│   ├── midi.py        # MIDI export/import
+│   └── serialization.py # Chord serialization
+└── cli/               # Command-line interface
+    └── commands.py    # CLI command implementations
+```
+
+## Documentation
+
+Full documentation is available at [tonnetz.readthedocs.io](https://tonnetz.readthedocs.io).
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Make your changes
+4. Add tests for new functionality
+5. Run the test suite (`pytest`)
+6. Commit your changes (`git commit -m 'Add amazing feature'`)
+7. Push to the branch (`git push origin feature/amazing-feature`)
+8. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Based on neo-Riemannian theory and the Tonnetz as described in music theory literature
+- Inspired by cellular automaton research in computational creativity
+- Built with the excellent [music21](https://web.mit.edu/music21/) library

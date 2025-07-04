@@ -1,0 +1,27 @@
+grid:
+  width: 12
+  height: 12
+
+initial_pattern: checkerboard
+
+progression:
+  type: rule_based
+  params:
+    key: 0
+    mode: major
+    pattern: ii-V-I
+    randomness: 0.1
+
+automaton:
+  neighborhood: moore
+  update_mode: synchronous
+
+simulation:
+  steps: 10
+  start_chord: C
+
+visualization:
+  type: static
+  color_by: quality
+  figsize: [12, 10]
+  output: tonnetz.png

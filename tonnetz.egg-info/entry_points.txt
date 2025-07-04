@@ -1,0 +1,4 @@
+[console_scripts]
+tonnetz-serve = tonnetz.cli.commands:serve
+tonnetz-simulate = tonnetz.cli.commands:simulate
+tonnetz-visualize = tonnetz.cli.commands:visualize
