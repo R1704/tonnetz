@@ -49,6 +49,9 @@ A Python library for exploring chord progressions through neo-Riemannian transfo
 - **Tonnetz Representation**: Map chords onto a 2D toroidal lattice with modular wrap-around
 - **Neo-Riemannian Transformations**: Implement P (Parallel), L (Leittonwechsel), R (Relative) operations
 - **Pluggable Progression Algorithms**: Rule-based, Markov chain, and search-driven chord progressions
+  - **Rule-based**: Pattern-driven progressions (I-vi-IV-V, ii-V-I, etc.)
+  - **Markov Chain**: Statistical progression generation based on training data
+  - **Search-based**: AI-driven optimization for voice leading, harmonic tension, and musical objectives
 - **Cellular Automaton Engine**: 2D grid of agents applying local transformation rules
 - **Visualization**: Static and interactive plots of chord evolution on the torus
 - **MIDI Support**: Export progressions as MIDI files
@@ -162,3 +165,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Based on neo-Riemannian theory and the Tonnetz as described in music theory literature
 - Inspired by cellular automaton research in computational creativity
 - Built with the excellent [music21](https://web.mit.edu/music21/) library
+
+### Progression Algorithms
+
+```python
+# Rule-based progression
+from tonnetz.progression.rule_based import RuleBasedProgression
+rule_algo = RuleBasedProgression(pattern='I-vi-IV-V', key=0, mode='major')
+progression = rule_algo.generate(start_chord, 8)
+
+# Markov chain progression
+from tonnetz.progression.markov import MarkovProgression
+markov_algo = MarkovProgression(order=1)
+# Train on custom progressions or use built-in training
+markov_algo.train([['C', 'Am', 'F', 'G'], ['C', 'F', 'G', 'C']])
+progression = markov_algo.generate(start_chord, 8)
+
+# Search-based progression with multiple objectives
+from tonnetz.progression.search_based import SearchBasedProgression, SearchObjective
+search_algo = SearchBasedProgression(
+    search_method='beam',
+    objectives=[SearchObjective.SMOOTH_VOICE_LEADING, SearchObjective.HARMONIC_TENSION],
+    objective_weights=[0.7, 0.3]
+)
+progression = search_algo.generate(start_chord, 8)
+```
