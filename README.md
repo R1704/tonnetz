@@ -24,7 +24,7 @@ pip install tonnetz
 For development:
 
 ```bash
-git clone https://github.com/ronuser/tonnetz.git
+git clone https://github.com/R1704/tonnetz.git
 cd tonnetz
 pip install -e ".[dev]"
 ```

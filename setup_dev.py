@@ -30,38 +30,43 @@ def main():
     """Main setup function."""
     print("🎵 Tonnetz Development Setup")
     print("============================")
-    
+
     # Check if we're in the right directory
     if not Path("pyproject.toml").exists():
         print("❌ Please run this script from the tonnetz project root directory")
         sys.exit(1)
-    
+
     # Install in development mode
     if not run_command("pip install -e .", "Installing Tonnetz in development mode"):
         sys.exit(1)
-    
+
     # Install development dependencies
-    if not run_command("pip install pytest pytest-cov black flake8 mypy jupyter", 
-                      "Installing development dependencies"):
+    if not run_command(
+        "pip install pytest pytest-cov black flake8 mypy jupyter",
+        "Installing development dependencies",
+    ):
         print("⚠️  Development dependencies installation failed, but continuing...")
-    
+
     # Run basic tests
     if Path("tests").exists():
         run_command("python -m pytest tests/ -v", "Running basic tests")
     else:
         print("⚠️  No tests directory found, skipping tests")
-    
+
     # Test CLI commands
     print("\n🔧 Testing CLI commands...")
     cli_tests = [
         ("tonnetz-simulate --help", "CLI simulate help"),
         ("tonnetz-visualize --help", "CLI visualize help"),
-        ("python -c 'import tonnetz; print(tonnetz.__version__)'", "Python import test")
+        (
+            "python -c 'import tonnetz; print(tonnetz.__version__)'",
+            "Python import test",
+        ),
     ]
-    
+
     for cmd, desc in cli_tests:
         run_command(cmd, desc)
-    
+
     print("\n✨ Setup completed!")
     print("\nNext steps:")
     print("  1. Explore the examples/ directory")
