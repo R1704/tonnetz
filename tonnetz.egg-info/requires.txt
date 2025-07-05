@@ -8,6 +8,10 @@ click>=8.0.0
 mido>=1.2.0
 fastapi>=0.68.0
 uvicorn>=0.15.0
+websockets>=10.0
+
+[audio]
+sounddevice>=0.4.0
 
 [dev]
 pytest>=7.0.0
@@ -17,3 +21,6 @@ flake8>=4.0.0
 mypy>=0.950
 sphinx>=4.5.0
 jupyter>=1.0.0
+
+[web]
+jinja2>=3.0.0

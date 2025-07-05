@@ -11,6 +11,7 @@ tonnetz.egg-info/dependency_links.txt
 tonnetz.egg-info/entry_points.txt
 tonnetz.egg-info/requires.txt
 tonnetz.egg-info/top_level.txt
+tonnetz/audio/playback.py
 tonnetz/automaton/__init__.py
 tonnetz/automaton/cell.py
 tonnetz/automaton/grid.py
@@ -27,4 +28,5 @@ tonnetz/progression/markov.py
 tonnetz/progression/rule_based.py
 tonnetz/progression/search_based.py
 tonnetz/visualization/__init__.py
+tonnetz/visualization/interactive.py
 tonnetz/visualization/static.py

@@ -1,0 +1,6319 @@
+grid_state:
+  cells:
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 0
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 1
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 2
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 3
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 4
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 5
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 6
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 7
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 8
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 9
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 10
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 0
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 1
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 2
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 3
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 4
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 5
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 6
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 7
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: major
+      root: 5
+    energy: 1.0
+    state: {}
+    x: 8
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 9
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: diminished
+      root: 11
+    energy: 1.0
+    state: {}
+    x: 10
+    y: 11
+  - activation: 1.0
+    chord:
+      inversion: 0
+      quality: minor
+      root: 4
+    energy: 1.0
+    state: {}
+    x: 11
+    y: 11
+  generation: 10
+  height: 12
+  neighborhood: moore
+  update_mode: synchronous
+  width: 12
+metadata:
+  export_time: /Users/ron/Code/tonnetz
+  version: 0.1.0
+patterns:
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 3
+    - 1
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 4
+    - 1
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 3
+    - 2
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 4
+    - 2
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 3
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 4
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 2
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 3
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 4
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 5
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 0
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 0
+  - !!python/tuple
+    - 7
+    - 1
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 0
+  - !!python/tuple
+    - 8
+    - 1
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 0
+  - !!python/tuple
+    - 8
+    - 2
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 0
+  - !!python/tuple
+    - 8
+    - 3
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 0
+  - !!python/tuple
+    - 8
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 0
+  - !!python/tuple
+    - 9
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 3
+    - 2
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 4
+    - 2
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 3
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 4
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 2
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 3
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 4
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 5
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 3
+    - 2
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 4
+    - 2
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 3
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 4
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 2
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 3
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 4
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 5
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 1
+  - !!python/tuple
+    - 6
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 11
+  - - 4
+    - 4
+    - 11
+  - - 4
+    - 4
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 6
+    - 1
+  - !!python/tuple
+    - 7
+    - 4
+  pattern:
+  - - 4
+    - 11
+    - 11
+  - - 4
+    - 11
+    - 11
+  - - 4
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 7
+    - 1
+  - !!python/tuple
+    - 8
+    - 2
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 7
+    - 1
+  - !!python/tuple
+    - 8
+    - 3
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 7
+    - 1
+  - !!python/tuple
+    - 8
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 7
+    - 1
+  - !!python/tuple
+    - 9
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 1
+  - !!python/tuple
+    - 8
+    - 2
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 1
+  - !!python/tuple
+    - 8
+    - 3
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 1
+  - !!python/tuple
+    - 8
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 1
+  - !!python/tuple
+    - 9
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 1
+    - 2
+  - !!python/tuple
+    - 0
+    - 7
+  pattern:
+  - - 5
+    - 5
+    - 4
+  - - 5
+    - 5
+    - 4
+  - - 5
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 2
+  - !!python/tuple
+    - 1
+    - 7
+  pattern:
+  - - 5
+    - 4
+    - 4
+  - - 5
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 3
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 4
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 2
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 3
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 4
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 5
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 2
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 3
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 4
+    - 3
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 2
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 3
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 4
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 5
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 2
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 2
+  - !!python/tuple
+    - 8
+    - 3
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 2
+  - !!python/tuple
+    - 8
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 2
+  - !!python/tuple
+    - 9
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 3
+  - !!python/tuple
+    - 1
+    - 8
+  pattern:
+  - - 5
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 3
+  - !!python/tuple
+    - 0
+    - 9
+  pattern:
+  - - 5
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 2
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 3
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 4
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 5
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 2
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 3
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 4
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 5
+    - 4
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 3
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 3
+  - !!python/tuple
+    - 8
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 3
+  - !!python/tuple
+    - 9
+    - 4
+  pattern:
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  - - 11
+    - 11
+    - 11
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 4
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 4
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 4
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 2
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 3
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 4
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 5
+    - 5
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 4
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 5
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 5
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 5
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 5
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 5
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 5
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 5
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 5
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 5
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 5
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 5
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 5
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 5
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 5
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 5
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 5
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 5
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 5
+  - !!python/tuple
+    - 2
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 5
+  - !!python/tuple
+    - 3
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 5
+  - !!python/tuple
+    - 4
+    - 6
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 5
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 5
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 5
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 5
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 5
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 6
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 6
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 6
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 6
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 6
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 6
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 6
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 6
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 6
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 6
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 6
+  - !!python/tuple
+    - 2
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 6
+  - !!python/tuple
+    - 3
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 6
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 6
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 6
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 6
+  - !!python/tuple
+    - 4
+    - 7
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 6
+  - !!python/tuple
+    - 3
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 7
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 7
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 7
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 7
+  - !!python/tuple
+    - 2
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 7
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 3
+    - 7
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 4
+    - 7
+  - !!python/tuple
+    - 3
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 5
+    - 7
+  - !!python/tuple
+    - 4
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 5
+  - - 4
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 6
+    - 7
+  - !!python/tuple
+    - 5
+    - 8
+  pattern:
+  - - 4
+    - 4
+    - 5
+  - - 4
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 7
+    - 7
+  - !!python/tuple
+    - 6
+    - 8
+  pattern:
+  - - 4
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 7
+    - 7
+  - !!python/tuple
+    - 5
+    - 9
+  pattern:
+  - - 4
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 7
+  - !!python/tuple
+    - 7
+    - 8
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 7
+  - !!python/tuple
+    - 8
+    - 8
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 7
+  - !!python/tuple
+    - 9
+    - 8
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 7
+  - !!python/tuple
+    - 6
+    - 9
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 9
+    - 7
+  - !!python/tuple
+    - 7
+    - 8
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 9
+    - 7
+  - !!python/tuple
+    - 8
+    - 8
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 9
+    - 7
+  - !!python/tuple
+    - 9
+    - 8
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 9
+    - 7
+  - !!python/tuple
+    - 6
+    - 9
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 1
+    - 8
+  - !!python/tuple
+    - 0
+    - 9
+  pattern:
+  - - 5
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 8
+  - !!python/tuple
+    - 1
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 2
+    - 8
+  - !!python/tuple
+    - 2
+    - 9
+  pattern:
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  - - 4
+    - 4
+    - 4
+  size: 3
+- locations:
+  - !!python/tuple
+    - 6
+    - 8
+  - !!python/tuple
+    - 5
+    - 9
+  pattern:
+  - - 4
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 7
+    - 8
+  - !!python/tuple
+    - 6
+    - 9
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 8
+    - 8
+  - !!python/tuple
+    - 6
+    - 9
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+- locations:
+  - !!python/tuple
+    - 9
+    - 8
+  - !!python/tuple
+    - 6
+    - 9
+  pattern:
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  - - 5
+    - 5
+    - 5
+  size: 3
+statistics:
+  active_cells: 144
+  average_activation: 1.0
+  chord_changes: 0
+  generation: 10
+  grid_size: 12x12
+  harmony_level: 0.8500330687830688
+  total_cells: 144
